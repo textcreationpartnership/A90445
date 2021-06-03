@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The people informed of their oppressors and oppressions. With a remedy against both. Unto which is added the sentence of deposition against King Richard the second, and Edward the second; with the happiness that ensued to this nation thereupon.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90445</idno><idno type="EEBO-CITATION">99864717</idno>
+  <idno type="VID">116949</idno>
+  <idno type="EEBO-PROQUEST">2240919864</idno>
+  
+            <idno type="STC">Wing P1443</idno>
+            <idno type="STC">Thomason E536_17</idno>
+            <idno type="STC">ESTC R205305</idno>
+            <idno type="PROQUEST">99864717</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864717e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116949)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The people informed of their oppressors and oppressions. With a remedy against both. Unto which is added the sentence of deposition against King Richard the second, and Edward the second; with the happiness that ensued to this nation thereupon.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year. MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="topical_term">Kings and rulers --  Early works to 1800.</term>
+               <term type="topical_term">Despotism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116949:1"/>
+            <p>THE PEOPLE Informed of their OPPRESSORS AND OPPRESSIONS.</p>
+            <p>
+               <hi>With a Remedy against both.</hi>
+            </p>
+            <p>Unto which is added the sentence of Depo<g ref="char:EOLhyphen"/>sition against King RICHARD the second, and <hi>Edward</hi> the second; with the happiness that en<g ref="char:EOLhyphen"/>sued to this Nation thereupon.</p>
+            <q>
+               <l>
+                  <hi>Latabitur justus quum viderit ultionem</hi>
+               </l>
+               <l>
+                  <hi>Periat potius unus quam unitas.</hi>
+               </l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:116949:2"/>
+            <pb n="3" facs="tcp:116949:2"/>
+            <head>The People informed of their Oppres<g ref="char:EOLhyphen"/>sors and Oppressions.</head>
+            <p>PArliaments are sacred, keeping within Parliamentary Rules, discharging that trust which the People their Masters reposed in them, and is to preserve their Free<g ref="char:EOLhyphen"/>dom, and restore those Laws (so long violated) which their careful Ancestors, with the expence of much blood, to that purpose provided, and left to them as a rich inheritance. That this Parliament hath not been so faithful, all ingenuous men must confess, this trust being broken even in the first week of their sitting; for that this Kings whole raign hath been a continued Tyranny, their own consciences did bear them wit<g ref="char:EOLhyphen"/>ness; as also that this Parliament was, what he was necessitated to for his own security, not called for any love to the people, whom he hath ever (both before and since the calling of it) en<g ref="char:EOLhyphen"/>devored to inslave and possess himself of the whole Land and the wealth of it, not leaving more then a temporary propriety in any person of what he (should enjoy, nor did they less know that he chose to walk in those crooked paths, more moved there<g ref="char:EOLhyphen"/>unto by his own wicked desires, then by the advice of any evil Counsellor; for it is well known to all men learned, (either by experience or reading,) that to a Prince (that's not a fool) well inclined, no man dares give Malignant counsel: This notwith<g ref="char:EOLhyphen"/>standing beginning to reform, they lay all the Kings faults at o<g ref="char:EOLhyphen"/>ther mens doors, excuse, nay Court him the greatest offender, punish the Accessaries with death, and justifie the Principle, as led by evil Councel; if the Representatives of the People charge the evil actions of their Prince upon his Councellors, letting him go unpunished, they incourage him to become worse, they establish Tyranny by a Law, they betray their Trust, and deserve that punishment which they ought to have inflicted on him. It hath been the custom of our Ancestors to give great
+<pb n="4" facs="tcp:116949:3"/> reverence to good Kings, but the Oppressors of the People were secured from doing further mischief by deposing, after which death followed immediately, as in the case of <hi>Edward</hi> and <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> the second; the evils of both, whose Raigns <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut together, cannot weigh downe one of five the least bad action of this King, whom the Parliament (steering their old course of acquit<g ref="char:EOLhyphen"/>ting his Majesty, and accusing his evil Councel) had well neer set up again in Honor, Safety, and Freedom, to make his little finger heavier upon the People, then his loyns were heretofore, had not the Army (by whose <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, and Gods blessing upon them, this poor Nation is yet safe) taken upon them to do that Justice which the <hi>Parliament</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> purged, wanted either the cou<g ref="char:EOLhyphen"/>rage or honesty to do. These two unhappy Kings were truly mislead by evil Councellors, but this King was hurryed on by his own inordinate desire of Arbitrary power, to rule both with<g ref="char:EOLhyphen"/>out and against Law. <hi>Edward</hi> the second at the age of 23▪ re<g ref="char:EOLhyphen"/>ceived the Crown, a weak <hi>Prince,</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> little courage, and of whom the people conceived small hopes, began to raign at 25. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Prince</hi> from whom the Nation expected much good, and of extraordinary abilities to have satisfied their expectation, had he disposed them the right way. <hi>Edward</hi> chose for his compa<g ref="char:EOLhyphen"/>nion, and chief Councellor, <hi>Peirce Gaveston,</hi> whom (being bred together from their childhood) he passionately loved. This King chose to be governed by the Duke of <hi>Buckingham,</hi> whose enemy he was till a few moneths before his fathers death; and it is more then doubted by honest and discreet men, that they contracted friendship, and agreed to divide the Em<g ref="char:EOLhyphen"/>pire upon condition of poysoning the old man. <hi>Gaveston,</hi> not<g ref="char:EOLhyphen"/>withstanding the great Interest that he had in the Kings affecti<g ref="char:EOLhyphen"/>ons, was, upon the petition of the Lords, banished into <hi>Ireland: Buckingham</hi> being charged in <hi>Parliament</hi> upon Articles of high Treason, of which one was the murder of King <hi>James,</hi> and which divers persons then in and attending the <hi>Parliament</hi> were ready to prove; the King, lest his fathers death should be inquired into, (fearing that himself might be found too much concerned in it,) protects him against Law, and disolves the <hi>Parliament. Edward,</hi> after the death of <hi>Gaveston,</hi> takes to him<g ref="char:EOLhyphen"/>self
+<pb n="5" facs="tcp:116949:3"/> new favorites, the two <hi>Spencers,</hi> father and son, by whose advice he was guided the remainder of his reign; this <hi>King,</hi> after the death of <hi>Buckingham,</hi> never had any favorite that was not absolutely at his command. By the advice of the two <hi>Spencers Tho.</hi> Earl of <hi>Lancaster,</hi> with divers other Noblemen, were put to death, but they were taken in the wars which themselvs had le<g ref="char:EOLhyphen"/>vyed without any Authority, &amp; might justly be called a rebellio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. But this King (a wickedness that no Age, no Nation, can pa<g ref="char:EOLhyphen"/>ralel) professing the Protestant Religion, granted a Commissi<g ref="char:EOLhyphen"/>on to his good friends the Irish Papists to destroy his Irish Protestant Subjects; in order to which Commission, in a very short space, they murthered above two hundred thousand per<g ref="char:EOLhyphen"/>sons peaceably and quietly living at home, having neither raised nor thinking to raise War, notwithstanding that they lived under as much oppression as ever any people did under a Chri<g ref="char:EOLhyphen"/>stian Prince. This unfortunate Prince never betrayed his friends to whom he had promised succor, as this King at <hi>Rochel,</hi> who in stead of relieving them according to his engagement, lent his Fleet to their Enemies, and so treacherously put them into a condition of being less able to defend themselves. I pass by the multitude of Taxes imposed upon the people against Law, the selling Offices of Judicature, with many more oppressions; only I cannot forget that which, but for the Irish massacre, had bin an unparaleld Villany, The raising an unnatural War against the Parliament to destroy it, the onely fence of Liberty, the greatest happiness of a Nation. The life of <hi>Richard</hi> the second is much like that of <hi>Edward</hi> the second, only <hi>Edward</hi> was a grown man, and <hi>Richard</hi> but a boy, when he began to reign: Both these Kings repented them of their evil actions, The first before his trouble, the latter after his imprisonment; yet were they both deposed by <hi>Parliament;</hi> both put to death either by Commission or Connivance of the supream power. This <hi>King,</hi> notwithstanding his wickedness, far ex<g ref="char:EOLhyphen"/>ceeds the worst of his Progenitors, shews no signe of Repent<g ref="char:EOLhyphen"/>ance, but hardens his heart and imploys his thoughts to contrive new Rebellions, and sends Mr <hi>Germin</hi> and his wife with his two so<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, into parts beyond the Seas, to be the happy instru<g ref="char:EOLhyphen"/>ments
+<pb n="6" facs="tcp:116949:4"/> of bringing those his good purposes to pass. The Parlia<g ref="char:EOLhyphen"/>ment send him conditions of Peace, but hee▪l none of them, plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing himself with hopes of doing more mischief; and so big he swells with malice, and desire of revenge, that in the time of the last Treaty receiving certain informa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion that the ships which in the spring revolted from the Parliament were returned to their duty, bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st into tears even in the pre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of the honestest of the Commissioners; and inde<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he had some reason so to do, for that princely Thing his son seems born to be unfortunate, since i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his first imployment (which was <hi>Piracy</hi>) he hath been so lamentable unlucky of a <hi>Prince,</hi> that hath thus rebel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>'d against <hi>God and the People,</hi> and continues to harden his heart against them both, whats to be resolved. The two fore<g ref="char:EOLhyphen"/>named unhappy <hi>Kings</hi> in the judgment of all men (not wholy subsisting by the Court) deserved to dye: That they were unfit to rule, is confest of all sides; and that there can be no security for peace, living a deposed <hi>King,</hi> no man can deny. This <hi>king</hi> (baiting all his Murthers in the English and Irish Rebellions) deserves as much in justice as necessity to suffer death. It may be object<g ref="char:EOLhyphen"/>ed, that though 'tis true, that you have said, and that he is a per<g ref="char:EOLhyphen"/>jured man, and cannot be trusted, (for so Mr <hi>Hollis</hi> and the rest of the Malignant Members at their night-work confest,) yet there is no Law to punish him? To this I answer, That there is no Government under the Sun, neither can there be any con<g ref="char:EOLhyphen"/>stituted so perfect, but that there must be something left to dis<g ref="char:EOLhyphen"/>cretion, which is the Reason of a supream power, and that is onely in the <hi>Parliament.</hi> When the people would no longer bear the ill Government of <hi>Richard</hi> the second (who chasti<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d them with rods, but this <hi>King</hi> hath done it with scorpions) a <hi>Parliament</hi> was called by command of the Nobility, and Articles were drawn up against him, and brought into <hi>Parliament,</hi> where being publiquely read, the judgment of <hi>Parliament</hi> was demanded concerning the truth of those Articles, they agreed that the Crimes were notorious, and that the <hi>King</hi> was worthy for the same to be deposed from all kingly Dignity, in prosecu<g ref="char:EOLhyphen"/>tion whereof Commissioners were appointed by both Houses to pronounce the sentence of deposition against <hi>King Richard</hi> in manner as followeth:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="deposition">
+                        <pb n="7" facs="tcp:116949:4"/>
+                        <p>IN the Name of God, <hi>Amen. We</hi> John <hi>Bishop of Asaph.</hi> John <hi>Abbot of Glassenbury,</hi> Thomas <hi>Earl of Glocester,</hi> Thomas <hi>Lord Barkley, Sir</hi> Thomas Erpingham, <hi>and Sir</hi> Thomas Grey, <hi>Knights, and</hi> William Thurning <hi>Justice, Commissioners for the Causes hereafter specified by the Lords Spiritual and Temporal, and the Commons of the Realm of</hi> England, <hi>repre<g ref="char:EOLhyphen"/>senting all the States of our Kingdom, specially deputed, sitting in place of Judgment▪ considering the manifold Perjuries, Cru<g ref="char:EOLhyphen"/>elties, and many other the Crimes and Offences, by</hi> Richard, <hi>late King of this Realm, committed and done (contrary to good Government) in the Realms and Dominions aforesaid, during the time of His reign; also considering the Articles which were openly considered and read before the said States, which were so publike notorious, manifest, and famous, that they could nor can by any shift, or cover, be concealed or avoided, as may be read at large in the Parliament Rolls; (and which for brevity sake, I omit, onely remembring the conclusion.) In pursuance whereof, We Pronounce, Decree, and Declare, the said</hi> Richard <hi>to have been, and be unprofitable, unable, and a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>together unsufficient, and unworthy of the Rule and Government of the said Realms; and in regard of the Premises, worthy to be deposed from all Kingly dignity and ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>or, (if any such dignity and honor, remain in Him;) and for the like cautele, depose Him by Our Sentence Definitive in this Writing, inhibiting from henceforth expresly, all and singular Lords, Archbishops, Bishops, Prelates, Dukes,</hi> &amp;c. <hi>and all other Persons of the said Realms, the Subjects of the same, and every of them, That from henceforth none obey or intend to obey, the said</hi> Richard, <hi>as King, or Lord of the Domi<g ref="char:EOLhyphen"/>nions aforesaid,</hi> &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Sentence being pronounced, the Parliament proceeded to the Election of a King, and the unhappy <hi>Richard</hi> was sent first to the Castle of <hi>Leeds</hi> in <hi>Kent,</hi> after to <hi>Pontefract,</hi> where in order to the Publike Safety, he departed this life. Thus also <hi>mutatis mutandis,</hi> died <hi>Edward</hi> the second.</p>
+            <p>Upon the deposing of these two Kings, I shall make this ob<g ref="char:EOLhyphen"/>servation,
+<pb n="8" facs="tcp:116949:5"/> That it pleased God to place in their Thrones (as a sure signe of his approbation) two such Princes, as were not else in all <hi>Europe</hi> to be found; <hi>Edward</hi> the third, and <hi>Henry</hi> the fourth, the latter of which (besides the great advantage that His reign brought to the Kingdom in general) was the happy Father of <hi>Henry</hi> the fift, the most pious and most glorious King, that ever swayed the <hi>English</hi> Scepter.</p>
+            <p>That Kings may be deposed, is cleer by the forementioned Pre<g ref="char:EOLhyphen"/>cedent, and that Precedents are Law, will not be denyed by any man that deserves to wear a bare Gown. The Common Law of <hi>England,</hi> is the general Custom of <hi>England,</hi> which Custom must necessarily have a beginning, and that was a Precedent which hath been still continued.</p>
+            <p>That this Kings Crimes have deserved deposing (since it is sufficiently proved, that there is Law to warrant such an action,) will not, I am confident, be denyed; for I refer the truth of those Treasons, which I have charged upon Him, to the memory of all men, that have age enough to remember the beginning of His reign; and for the satisfaction of other men, I shall desire that they will inform themselves by the Parliaments Declarations, and Remonstrances, together with the History of the Parliament of <hi>England,</hi> and an History of these Wars, written impartially by one <hi>Hornius</hi> a Dutchman in <hi>Latine.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb n="1801" facs="tcp:116949:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
